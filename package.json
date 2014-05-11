@@ -1,0 +1,32 @@
+{
+  "name": "fixed-length-stream",
+  "version": "0.0.0",
+  "description": "A useful stream when parsing protocols.",
+  "main": "index.js",
+  "devDependencies": {
+    "bl": "~0.8.0",
+    "tape": "~2.12.3"
+  },
+  "dependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikeal/fixed-length-stream"
+  },
+  "keywords": [
+    "stream",
+    "steams2",
+    "fixed",
+    "parser",
+    "parsing",
+    "buffer"
+  ],
+  "author": "Mikeal Rogers <mikeal.rogers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikeal/fixed-length-stream/issues"
+  },
+  "homepage": "https://github.com/mikeal/fixed-length-stream"
+}
