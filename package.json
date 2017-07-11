@@ -4,8 +4,8 @@
   "description": "A useful stream when parsing protocols.",
   "main": "index.js",
   "devDependencies": {
-    "bl": "~0.8.0",
-    "tape": "~2.12.3"
+    "bl": "~1.2.1",
+    "tape": "~4.7.0"
   },
   "dependencies": {},
   "scripts": {
