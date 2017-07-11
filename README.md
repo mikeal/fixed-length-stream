@@ -1,5 +1,7 @@
 # Fixed Length Stream
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mikeal/fixed-length-stream.svg)](https://greenkeeper.io/)
+
 This is a useful stream for parsing protocols. It will only pass through data until the specified length is reached, end(), and then pass any data past the specified length to a callback.
 
 `npm install fixed-length-stream`
